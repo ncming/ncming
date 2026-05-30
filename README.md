@@ -34,8 +34,6 @@
 * 🛒 **E-commerce / Grocery Management System:** Participated in system analysis and developed components using React and Tailwind CSS.
 * 💸 **Expense Tracker App:** A cross-platform personal finance and expense tracking application built with Flutter. [*(View Repo)*](https://github.com/ncming/expense_tracker_app)
 * 🖐️ **Hand Tracking System:** A real-time hand tracking and gesture recognition system powered by Python, OpenCV, and MediaPipe. [*(View Repo)*](https://github.com/ncming/hand-tracking)
-* 📊 **Air Quality Data Analysis:** Built regression models in Python to analyze and visualize particulate matter (PM2.5, PM10) data.
-* 📡 **IoT Fall Detection System:** Researched and integrated mmWave Radar and ESP32 using MQTT protocol.
 
 ### My GitHub contributions summary
 

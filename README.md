@@ -4,11 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=ncming&color=red&style=flat-square" alt="Profile views" />
 </p>
 
-### 👨‍💻 About Me
-* 🎓 3rd-year Information Technology student at Vietnam National University of Agriculture (VNUA).
-* 🌱 Currently focusing on becoming a **Software Engineer**, with a strong interest in Web/App development and practical data-driven solutions.
-* 🎯 Objective: Seeking an IT Intern position in a product-driven company to contribute value and sharpen my technical skills.
-
 ### When I code, I rely on
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)

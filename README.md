@@ -25,7 +25,6 @@
 * 🚗 **Car Dealership Management (Admin Module):** Developed the Car and User management module using Java Servlet, JSP, HTML/CSS/JS, and SQL database.
 * 💸 **Expense Tracker App:** A cross-platform personal finance and expense tracking application. [*(View Repo)*](https://github.com/ncming/expense_tracker_app)
 * 🖐️ **Hand Tracking System:** A real-time hand tracking and gesture recognition system powered by OpenCV and MediaPipe. [*(View Repo)*](https://github.com/ncming/hand-tracking)
-* 📊 **Air Quality Data Analysis:** Built regression models in Python to analyze and visualize particulate matter (PM2.5, PM10) data.
 
 ### My GitHub contributions summary
 

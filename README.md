@@ -40,7 +40,3 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ncming&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
-
-### Connect with me
-* Email: canhminh2005@gmail.com 
-* LinkedIn: [minh-nguyen-7750a135b](https://www.linkedin.com/in/minh-nguyen-7750a135b/)

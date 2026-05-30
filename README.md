@@ -5,8 +5,7 @@
 </p>
 
 ### About Me
-* 3rd-year Information Technology student at Vietnam National University of Agriculture (VNUA).
-* Currently focusing on becoming a **Software Engineer**, with a strong interest in Web/App development and practical data-driven solutions.
+* VNUA IT Student, Experienced in Cross-platform & Web Development, Aiming to become a Fullstack Developer.
 * Objective: Seeking an IT Intern position in a product-driven company to contribute value and sharpen my technical skills.
 
 ### When I code, I rely on
